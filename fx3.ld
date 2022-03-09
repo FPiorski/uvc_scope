@@ -57,7 +57,7 @@ ENTRY(CyU3PFirmwareEntry);
 
 MEMORY
 {
-	// [kgsws] modified for bigger DMA buffers
+	/* [kgsws] modified for bigger DMA buffers */
 	I-TCM	: ORIGIN = 0x100	LENGTH = 0x3F00
 	SYS_MEM	: ORIGIN = 0x40003000	LENGTH = 0x28000
 	DATA	: ORIGIN = 0x4002B000	LENGTH = 0x4000

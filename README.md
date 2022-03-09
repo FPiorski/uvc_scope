@@ -1,3 +1,9 @@
+## Forked from kgsws/uvc_scope
+
+Gonna try to make it work with my Siglent SDS1104X-E (it uses an AT070TN92 LCD module).
+
+Original readme:
+
 # UVC Scope
 Stream LCD screen of your Rigol DS1074 using UVC to your PC.
 
